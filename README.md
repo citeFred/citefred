@@ -26,3 +26,6 @@
 ---
 ## 🌱 I’m currently *learning* JAVA Web Back-END
 ## 👯 I’m looking to collaborate on Programming Workgroup
+
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=ohnyong)](https://github.com/loosie/github-readme-tistory-card)
