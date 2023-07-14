@@ -32,8 +32,9 @@
 
 # Hi there 👋
 ---
-## 🌱 I’m currently *learning* JAVA Web Back-END
-## 👯 I’m looking to collaborate on Programming Workgroup
+## 🌱 I’m currently *learning* Web Backend, looking for a job!
+## 👯 I’m looking to collaborate on NICE Programming Workgroup
+## Contact ohnyong87@gmail.com
 
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=ohnyong)](https://ohnyong.tistory.com/)
