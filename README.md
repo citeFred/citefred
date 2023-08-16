@@ -34,7 +34,5 @@
 ---
 ## 🌱 I’m currently *learning* Web Backend, looking for a job!
 ## 👯 I’m looking to collaborate on NICE Programming Workgroup
-## Contact ohnyong87@gmail.com
+## Contact admin@yzpocket.com
 
-
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=ohnyong)](https://ohnyong.tistory.com/)
