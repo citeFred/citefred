@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=YZPOCKET&fontSize=90)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzpocket&layout=compact)
-
 <br>
 
 <div> 
@@ -30,9 +27,56 @@
 </div>
 
 
-# Hi there 👋
----
-## 🌱 I’m currently *learning* Web Backend, looking for a job!
-## 👯 I’m looking to collaborate on NICE Programming Workgroup
-## Contact admin@yzpocket.com
+<h1 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Inyong+KIM+,FRED;Backend+Developer;I+DO+LOVE+TO+SHARE+EVERTHING)](https://git.io/typing-svg)
+
+</h1>
+
+## 👦🏻  자기소개
+👋 안녕하세요. <br/>
+배움을 즐기는 개발자, 김인용입니다. <br/>
+소소한 다짐은 루틴으로 시작해서 패턴으로, 습관으로, 최종적으론 인생의 가치관을 변화 시킬 수 있다고 생각합니다. <br/>
+주변의 노하우에 귀기울이며 공유하여 함께 성장하고, 다양한 문제를 고려할 수 있는 개발자가 되겠습니다. <br/>
+
+## 💡 블로그
+<div>
+<a href="https://blog.yzpocket.com"><img alt="vercel" src ="https://img.shields.io/badge/Vercel-10C997.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</div>
+
+## 👷 교육
+- 스파르타코딩클럽 항해99 16기(2023.6 ~ )
+- 멀티캠퍼스 백엔드개발과정 (2022.9 ~ 2023.1)
+
+## ✉️ Contact 
+- E-mail : admin@yzpocket.com 
+
+## 💪 스킬
+### Platform & Language
+<div>
+<img alt="golang" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+<img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+<img alt="terraform" src ="https://img.shields.io/badge/terraform-7B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>  
+</div>
+
+### Tools
+<div style="display:flex;flex-direction: row;">
+<div>
+<img alt="aws" src ="https://img.shields.io/badge/Amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img alt="gcp" src ="https://img.shields.io/badge/Googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img alt="docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+</div>
+  
+<div>
+<img alt="jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img alt="ansible" src ="https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
+  
+<img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="jira" src ="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzpocket&layout=compact)
+
+</div>
+</div>
 
