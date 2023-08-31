@@ -1,32 +1,3 @@
-<br>
-
-<div> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-
-  <br>
-
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-
-  <br>
-
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</div>
-
-
 <h1 align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Inyong+KIM+,FRED;Backend+Developer;I+DO+LOVE+TO+SHARE+EVERTHING)](https://git.io/typing-svg)
@@ -54,27 +25,48 @@
 ## 💪 스킬
 ### Platform & Language
 <div>
-<img alt="golang" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-<img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-<img alt="terraform" src ="https://img.shields.io/badge/terraform-7B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>  
+  <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 </div>
 
 ### Tools
 <div style="display:flex;flex-direction: row;">
 <div>
-<img alt="aws" src ="https://img.shields.io/badge/Amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img alt="gcp" src ="https://img.shields.io/badge/Googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img alt="docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+  <img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="aws" src ="https://img.shields.io/badge/Amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
   
 <div>
 <img alt="jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img alt="ansible" src ="https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
+
+<div> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+
+
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+
+  <br>
+
+
+</div>
   
-<img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="jira" src ="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzpocket&layout=compact)
 
 </div>
