@@ -26,7 +26,7 @@
 <br/>
 
 ## ✉️ Contact 
-- E-mail : admin@yzpocket.com 
+- E-mail : fred_example@yzpocket.com 
 <br/>
 
 ## 🐣 Education
