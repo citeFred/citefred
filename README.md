@@ -2,8 +2,8 @@
 <!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=130&text=YZ%20Pocket&width=2100&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=55) -->
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=1100&lines=YZPOCKET;Rummage+wise+ideas+from+my+pocket;I+do+love+to+share;Passion+Happiness)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=1100&lines=Inyong+KIM+,Fred;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=1100&lines=YZPOCKET,+NEODUSOFT;Rummage+wise+ideas+from+my+pocket;I+do+love+to+share;Passion,+Happiness,+Challenges)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=1100&lines=Hello+guys+:p;I'm+Inyong+KIM+a+Backend+Developer;just+call+me+Fred;Feel+free+to+ask+anything)](https://git.io/typing-svg)
 
 
 
@@ -15,23 +15,23 @@
 <br/>
 
 ## 💡 Blog
-<div>
-<a href="https://blog.yzpocket.com"><img alt="vercel" src ="https://img.shields.io/badge/BLOG.YZPOCKET-grey?style=for-the-badge&logo=vercel"/></a>
+* <div><p>#development #philosophy</p>
+<a href="https://ciyeFred.com">&nbsp;<img alt="vercel" src ="https://img.shields.io/badge/citeFred-grey?style=for-the-badge&logo=vercel"/></a>
 </div>
 
-
-<div>
-<a href="https://www.instagram.com/citeFred"><img alt="vercel" src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+* <div><p>#lifestyle</p>
+<a href="https://www.instagram.com/citeFred">&nbsp;<img alt="vercel" src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </div>
 <br/>
 
 ## ✉️ Contact 
-- E-mail : citeFred@yzpocket.com 
+- Personal : citefred@yzpocket.com
+- Business : admin@yzpocket.com
 <br/>
 
 ## 🐣 Education
-- 스파르타코딩클럽 항해99 16기 웹종합 및 Spring반 (2023.6 ~ )
-- 멀티캠퍼스 백엔드개발과정 (2022.9 ~ 2023.2)
+- 스파르타코딩클럽 항해99 16기 웹종합 및 Spring (2023.6 ~ )
+- 멀티캠퍼스 웹종합 및 백엔드개발과정 (2022.9 ~ 2023.2)
 <br/>
 
 ## 💪 Skills
