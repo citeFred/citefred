@@ -21,12 +21,12 @@
 
 
 <div>
-<a href="https://www.instagram.com/Fred_cite"><img alt="vercel" src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/citeFred"><img alt="vercel" src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </div>
 <br/>
 
 ## ✉️ Contact 
-- E-mail : fred_cite@yzpocket.com 
+- E-mail : citeFred@yzpocket.com 
 <br/>
 
 ## 🐣 Education
