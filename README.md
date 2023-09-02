@@ -3,7 +3,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=1100&lines=YZPOCKET;Rummage+wise+ideas+from+my+pocket;I+do+love+to+share;Passion+Happiness)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=1100&lines=Inyong+KIM+,FRED;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=1100&lines=Inyong+KIM+,Fred;Backend+Developer)](https://git.io/typing-svg)
 
 
 
@@ -21,12 +21,12 @@
 
 
 <div>
-<a href="https://www.instagram.com/Fred_example"><img alt="vercel" src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/Fred_cite"><img alt="vercel" src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </div>
 <br/>
 
 ## ✉️ Contact 
-- E-mail : fred_example@yzpocket.com 
+- E-mail : fred_cite@yzpocket.com 
 <br/>
 
 ## 🐣 Education
