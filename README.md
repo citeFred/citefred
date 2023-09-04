@@ -16,7 +16,7 @@
 
 ## 💡 Blog
 * <div><p>#development #philosophy</p>
-<a href="https://ciyeFred.com">&nbsp;<img alt="vercel" src ="https://img.shields.io/badge/citeFred-grey?style=for-the-badge&logo=vercel"/></a>
+<a href="https://citefred.com">&nbsp;<img alt="vercel" src ="https://img.shields.io/badge/citeFred-grey?style=for-the-badge&logo=vercel"/></a>
 </div>
 
 * <div><p>#lifestyle</p>
