@@ -22,6 +22,10 @@
 * <div><p>#lifestyle</p>
 <a href="https://www.instagram.com/citeFred">&nbsp;<img alt="vercel" src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </div>
+
+* <div><p>#youtube</p>
+<a href="https://www.youtube.com/@user-xk2ud7nl8e">&nbsp;<img alt="youtube" src ="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+</div>
 <br/>
 
 ## ✉️ Contact 
@@ -30,8 +34,8 @@
 <br/>
 
 ## 🐣 Education
-- 스파르타코딩클럽 항해99 16기 웹종합 및 Spring (2023.6 ~ )
-- 멀티캠퍼스 웹종합 및 백엔드개발과정 (2022.9 ~ 2023.2)
+- 스파르타코딩클럽 항해99 16기 `Java`, `SpringBoot` 백엔드웹개발과정 (2023.6 ~ 2023.11)
+- 멀티캠퍼스 웹종합 및 `Java`, `Spring` 백엔드웹개발과정 (2022.9 ~ 2023.2)
 <br/>
 
 ## 💪 Skills
