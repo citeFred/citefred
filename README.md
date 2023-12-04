@@ -33,11 +33,6 @@
 - Business : admin@yzpocket.com
 <br/>
 
-## 🐣 Education
-- 스파르타코딩클럽 항해99 16기 `Java`, `SpringBoot` 백엔드웹개발과정 (2023.6 ~ 2023.11)
-- 멀티캠퍼스 웹종합 및 `Java`, `Spring` 백엔드웹개발과정 (2022.9 ~ 2023.2)
-<br/>
-
 ## 💪 Skills
 </div>
 
