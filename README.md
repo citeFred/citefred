@@ -29,7 +29,7 @@
 <br/>
 
 ## ✉️ Contact 
-- Personal : citefred@yzpocket.com
+- Personal : citefred@gmail.com
 - Business : admin@yzpocket.com
 <br/>
 
