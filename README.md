@@ -48,6 +48,12 @@
 
 </div>
 <div>
+  <img alt="typescript" src ="https://img.shields.io/badge/TypeScript-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="NestJS" src ="https://img.shields.io/badge/NestJS-ff4c4c.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-e22da6?style=for-the-badge&logo=angular&logoColor=white">
+
+</div>
+<div>
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
