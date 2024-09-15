@@ -3,7 +3,6 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=1100&lines=YZPOCKET,+NEODUSOFT;Rummage+wise+ideas+from+my+pocket;I+do+love+to+share;Passion,+Happiness,+Challenges)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=1100&lines=Hello+guys+:p;I'm+Inyong+KIM+a+Backend+Developer;just+call+me+Fred;Feel+free+to+ask+anything)](https://git.io/typing-svg)
 
 
 
@@ -36,19 +35,19 @@
 ## 💪 Skills
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzpocket&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=citefred&show_icons=true&theme=shadow_blue)
 
 </div>
 
 ### 📚︎ Main Language
 <div>
-  <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img alt="spring boot" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
 </div>
 <div>
-  <img alt="typescript" src ="https://img.shields.io/badge/TypeScript-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="typescript" src ="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge"/>
   <img alt="NestJS" src ="https://img.shields.io/badge/NestJS-ff4c4c.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-e22da6?style=for-the-badge&logo=angular&logoColor=white">
 
